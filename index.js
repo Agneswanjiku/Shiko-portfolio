@@ -35,7 +35,7 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Hello!", "Its nice to meet you", "My name is Ken Joel Gichuhi Muigai", "A Software Developer.", "This is for your perusal.", "Enjoy."],
+        strings: ["Hello!", "Its nice to meet you", "My name is Agnes Wanjiku Norman", "A Software Developer.", "This is for your perusal.", "Enjoy."],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
