@@ -680,3 +680,11 @@ footer span a:hover{
         line-height: 38px;
     }
 }
+#home{
+    background-image: url('https://unsplash.com/photos/1yXRqYWma14');
+}
+.hom{
+    background-image: url(./stock/darkbb.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
